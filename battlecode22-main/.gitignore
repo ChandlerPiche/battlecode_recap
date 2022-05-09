@@ -1,0 +1,36 @@
+dist/*
+build/*
+version.txt
+
+/matches
+/deploy/lib
+/deploy/bin
+*.rms
+*.bc22
+/build/
+/bin/
+*.conf
+.DS_Store
+*.log
+*.swp
+*.pyc
+.gradle
+/client/
+*.jar
+*.iml
+*.ipr
+*.iws
+/.idea/
+
+slientfuncsplayer/
+slientplayer/
+
+# User-specific stuff:
+battlecode-scaffold.iws
+client32
+./maps/
+
+# Eclipse user-specific files
+.classpath
+.project
+.settings/
